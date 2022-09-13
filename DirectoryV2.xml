@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/microservicecloud-config-3344" title="config服务端(连接github配置文件）"/>
+     <tree path="/microservicecloud-config-eureka-client-7001" title="Config版的eureka服务端"/>
+     <tree path="/microservicecloud-config-dept-client-8001" title="Config版的dept微服务"/>
+ </trees>

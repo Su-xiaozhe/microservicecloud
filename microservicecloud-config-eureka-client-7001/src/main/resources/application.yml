@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: microservicecloud-config-eureka-client #//和bootstrap文件的保持一样name
+
